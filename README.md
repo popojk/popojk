@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A backend engineer with strong frontend development skills. Passionate about contributing to valuable open source projects.</h3>
+<h1 style="text-align: left;">Hi 👋, I'm Alex</h1>
+<h3 style="text-align: left;">A backend engineer with strong frontend development skills. Passionate about contributing to valuable open source projects.</h3>
 
 
 
