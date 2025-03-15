@@ -1,5 +1,5 @@
 <h1 style="text-align: left;">Hi 👋, I'm Alex</h1>
-<h5 style="text-align: left;">Currently a backend engineer. Passionate about contributing to valuable open source projects.</h5>
+<h5 style="text-align: left;">Currently a backend engineer. Passionate about contributing to valuable open source projects and solving real world software issues.</h5>
 
 
 
